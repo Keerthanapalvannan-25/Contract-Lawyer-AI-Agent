@@ -1,4 +1,4 @@
-# Contract-Lawyer-AI-Agent# Autonomous "Contract Lawyer" Agent
+ Contract-Lawyer-AI-Agent# Autonomous "Contract Lawyer" Agent
 
 ### Project Goal
 To automate the tedious process of legal document review and risk assessment using Natural Language Processing (NLP).
